@@ -10,8 +10,8 @@ int h = 30;
 int blocks = 20;
 
 // foodx = food x coordinate, foody = food y coordinate, r, g, b, are food colors
-foodx = 15;
-foody = 15;
+int foodx = 15;
+int foody = 15;
 int r = 0;
 int g = 0;
 int b = 255;
